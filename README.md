@@ -12,18 +12,11 @@ A full-featured mobile taxi booking app prototype with dedicated Rider and Drive
 
 Features include:
 
-🔐 Login authentication
-
-📍 Location-based suggestions and nearby attractions
-
-💵 Fare comparisons across available drivers
-
-🗓️ Ride scheduling for future trips
-
-🧭 Real-time ride tracking
-
-💸 Tipping functionality
-
-🕓 Trip history and ride details
-
-👥 Clean, user-friendly interface optimized for both user types.
+- 🔐 Login authentication
+- 📍 Location-based suggestions and nearby attractions
+- 💵 Fare comparisons across available drivers
+- 🗓️ Ride scheduling for future trips
+- 🧭 Real-time ride tracking
+- 💸 Tipping functionality
+- 🕓 Trip history and ride details
+- 👥 Clean, user-friendly interface optimized for both user types.
