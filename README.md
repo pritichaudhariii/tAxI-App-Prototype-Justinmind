@@ -5,6 +5,7 @@ An interactive prototype of a tAxI booking mobile app designed in Justinmind.
 
 
 
+
 📱🚖 Project Description
 
 A full-featured mobile taxi booking app prototype with dedicated Rider and Driver views, designed using Justinmind.
